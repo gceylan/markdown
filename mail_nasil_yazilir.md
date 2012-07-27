@@ -1,0 +1,14 @@
+Bir e-Mail Nasıl Yazılır?
+======================
+
+Maddeler halinde izah etmek gerekirse, standart bir e-mail hazırlarken şu hususlara dikkat etmeniz beklenir.
+----------------------
+
+1. Sürekli yazışmaların dışında, alıcınıza **hitaben bir selamlama kullanın**. Alıcıya “siz” diye hitap etmek nezaket gereğidir. Özel e-mailler haricinde, *@bil.omu.edu.tr*'de kullanacağınız dilde bu itinayı göstermelisiniz.
+2. Üşenmeyin. E-maillerinize **mutlaka bir başlık atın**. Böylece alıcının iletinizle nasıl ilgileneceğine karar vermesine yardımcı olursunuz. Eğer başlıksız bir posta yolluyorsanız  @bil.omu.edu.tr de çalışmakta olan tüm öğrenci ve öğretim üyelerini kendileriyle alakası olmayan bir e-maili açmaya zorluyorsunuz demektir. Konu başlığında “acil, önemli” gibi ibareler kullanmamaya dikkat edin. Konunun sizin için önemli olduğunu düşünüyor olabilirsiniz fakat alıcı(lar) için önemli olduğunu nasıl bilebilirsiniz ki? Attığınız doğru başlık sayesinde e-mailiniz diğerleri arasında ayırt edilir. Özellikle bilen@omu.edu.tr listesinde doğru başlığı atmanız, sorununuzun doğru kişi tarafından en makul yolla çözülmesinde büyük rol oynayacaktır.
+3. Metin gövdesini oluştururken **açık ve öz olun**. Sorun nedir? Siz ne öneriyor, düşünüyorsunuz? Alıcı(lar)dan ne yapmasını istiyorsunuz? Yazı düzeninizi kısa cümleler ve kısa paragraflar olarak tasarlayın. Unutmayın, **nasıl anlattığınız, ne anlattığınız kadar mühimdir**.
+4. Metin gövdesine ekleyeceğiniz kodları Github gistleri olarak paylaşın. (bkn. Özel Durumlar) Böylece hem görsel hem de işlevsel olarak alıcının kod üzerindeki hakimiyetini artırmış olursunuz.
+5. Ekteki dosyayı açmak zorunda bırakan e-mailler yollamayın. Bu şekilde alıcının dosyayı ek bir ofis programıyla açmasına ve birkaç dakikasının boşa gitmesine neden olabilirsiniz.
+6. Postalarınızı **Türkçe yazım kurallarına mutlaka dikkat ederek** Türkçe karakterlerle yazın. İletilerinizde *“slm, cnm, asl, pls”* gibi kısaltmalardan ve kendinize özgü tabirlerden uzak durun. Teknik terimler haricinde iletiniz, okuyan herkesin anlayabileceği kadar açık ve sade bir dille yazılmış olmalıdır.
+7. Her ne kadar elektronik mektuplar iki kişi arasındaymış gibi görünse de, aslında açıktır. *@bil.omu.edu.t*r sistem yöneticileri rahatlıkla mektuplarınıza bakabilir. Bu yüzden elektronik mektuplarda yazdıklarınıza dikkat edin. **Başkalarının kesinlikle görmemesi gereken şeyleri elektronik mektuplara yazmayın**.
+8. Mail yazarken **şekil yapmak değil verimli iletişim esastır**. Metin gövdesinde vurgulamalar ve metne özel kullanımlar haricinde, gerçekten ihtiyaç duyulmadıkça, yalnızca dikkat çekmek ve ya farklılık yaratmak adına varsayılandan farklı yazı tipi, boyutu ve rengi kullanmak maillerinizdeki ciddiyeti ve içeriğin okunurluğunu azaltacağı için *@bil.omu.edu.tr* listelerinde sakıncalı görülen hareketlerdendir.
